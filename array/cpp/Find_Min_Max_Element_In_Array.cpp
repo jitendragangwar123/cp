@@ -16,6 +16,7 @@ void findMinMaxElement(int arr[] , int n){
    cout<<"Maximum value in the Array= "<<max<<"\n";
    cout<<"Minimum Value in the Array= "<<min;
 }
+
 int main(){
     int t;
     cout<<"Enter the test case: "<<endl;
